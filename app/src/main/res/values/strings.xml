@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AirlineBoardingSystem</string>
+    <string name="title_activity_booking_details">BookingDetails</string>
+    <string name="proceed">Proceed</string>
+    <string name="number_of_passengers">Number of Passengers :</string>
+    <string name="trip_id_here">trip id here</string>
+    <string name="trip_id">Trip ID :</string>
+    <string name="traveller_name">Traveller Name</string>
+    <string name="age">age</string>
+    <string name="book">BOOK</string>
+    <string name="title_activity_ticket_display">TicketDisplayActivity</string>
+</resources>
